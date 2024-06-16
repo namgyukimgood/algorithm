@@ -1,0 +1,5 @@
+A, B, c= input().split()
+x=int(A)
+y=int(B)
+z=int(c)
+print(x+y+z)
